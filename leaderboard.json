@@ -1,0 +1,151 @@
+{
+    "resources": {
+        "bubu_tickets": {
+            "itemId": "bubu_tickets",
+            "name": "Bubu Tickets",
+            "icon": "https:\/\/mcapi.moonsama.com\/static\/images\/res-bubuTicket.png"
+        }
+    },
+    "itemTotals": [
+        {
+            "itemId": "bubu_tickets",
+            "name": "Bubu Tickets",
+            "amount": 45839,
+            "icon": "https:\/\/mcapi.moonsama.com\/static\/images\/res-bubuTicket.png"
+        }
+    ],
+    "leaderboards": [
+        {
+            "itemId": "bubu_tickets",
+            "leaderboard": [
+                {
+                    "playerId": "",
+                    "name": "xRyann",
+                    "rank": 1,
+                    "amount": 77
+                },
+                {
+                    "playerId": "",
+                    "name": "Dyrh",
+                    "rank": 2,
+                    "amount": 72
+                },
+                {
+                    "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
+                    "name": "zTheDarkAlex",
+                    "rank": 3,
+                    "amount": 39
+                },
+                {
+                    "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
+                    "name": "Wik_MC",
+                    "rank": 4,
+                    "amount": 30
+                },
+                {
+                    "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
+                    "name": "SolarPear",
+                    "rank": 5,
+                    "amount": 30
+                },
+                {
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "tobias",
+                    "rank": 6,
+                    "amount": 23
+                },
+                {
+                    "playerId": "a80b263e-8f41-4721-9b8e-760cbdb3af54",
+                    "name": "ASE0",
+                    "rank": 7,
+                    "amount": 20
+                },
+                {
+                    "playerId": "109e540a-afbc-4d67-875d-130b7701db13",
+                    "name": "Mbmachiavelli",
+                    "rank": 8,
+                    "amount": 18
+                },
+                {
+                    "playerId": "51203eec-dda0-4129-9324-959736a83979",
+                    "name": "N3therDragon",
+                    "rank": 9,
+                    "amount": 14
+                },
+                {
+                    "playerId": "0c73a007-1b20-4804-a8e7-5edd66fe56cd",
+                    "name": "zCocopops",
+                    "rank": 10,
+                    "amount": 13
+                },
+                {
+                    "playerId": "49ef96f7-a7c6-424d-b9e4-6ad427bd57f0",
+                    "name": "Stw7",
+                    "rank": 11,
+                    "amount": 12
+                },
+                {
+                    "playerId": "4c3e5e92-8b9b-42b0-b9ec-5bedb7bf2db8",
+                    "name": "Vetle",
+                    "rank": 12,
+                    "amount": 8
+                },
+                {
+                    "playerId": "45297318-b13d-4375-a960-97e4150b746c",
+                    "name": "litphoenix",
+                    "rank": 13,
+                    "amount": 7
+                },
+                {
+                    "playerId": "f9a4c763-673c-4721-a2f1-7c80113fbc03",
+                    "name": "Miki",
+                    "rank": 14,
+                    "amount": 6
+                },
+                {
+                    "playerId": "1622cb40-1399-4f12-b7b5-ddda209730e8",
+                    "name": "TechnoSpear",
+                    "rank": 15,
+                    "amount": 6
+                },
+                {
+                    "playerId": "705643fd-7423-4b5a-9f2f-10feb41f905f",
+                    "name": "MonkeCrypto",
+                    "rank": 16,
+                    "amount": 5
+                },
+                {
+                    "playerId": "5eb31917-095c-4bdb-b813-eb314a204bd2",
+                    "name": "IlikeWinter",
+                    "rank": 17,
+                    "amount": 4
+                },
+                {
+                    "playerId": "6f096a45-a607-4462-a26a-322f290ee642",
+                    "name": "blazing_lord",
+                    "rank": 18,
+                    "amount": 3
+                },
+                {
+                    "playerId": "db39814f-7419-4078-9849-4255e3595f60",
+                    "name": "RichardBenson",
+                    "rank": 19,
+                    "amount": 3
+                },
+                {
+                    "playerId": "abda78a2-a355-4e1a-9f3f-de4c45e1d399",
+                    "name": "CheemsCrypto",
+                    "rank": 20,
+                    "amount": 3
+                },
+                {
+                    "playerId": "231680be-63b3-470b-9ba6-7cc703b29b28",
+                    "name": "M3smerising",
+                    "rank": 21,
+                    "amount": 1
+                }
+
+            ]
+        }
+    ]
+}
