@@ -22,43 +22,37 @@
                     "playerId": "",
                     "name": "RichardBenson",
                     "rank": 1,
-                    "amount": 71
+                    "amount": 80
                 },
                 {
                     "playerId": "",
-                    "name": "Sandbu",
+                    "name": "zTheDarkAlex",
                     "rank": 2,
-                    "amount": 54
+                    "amount": 43
                 },
                 {
                     "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "Phonexium",
+                    "name": "Waze",
                     "rank": 3,
-                    "amount": 27
+                    "amount": 40
                 },
                 {
                     "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
-                    "name": "zTheDarkAlex",
+                    "name": "Sandbu",
                     "rank": 4,
-                    "amount": 26
+                    "amount": 30
                 },
                 {
                     "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
-                    "name": "zCocopops",
+                    "name": "Phenoxium",
                     "rank": 5,
-                    "amount": 21
+                    "amount": 24
                 },
                 {
                     "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
-                    "name": "Waze",
-                    "rank": 6,
-                    "amount": 15
-                },
-                {
-                    "playerId": "a80b263e-8f41-4721-9b8e-760cbdb3af54",
                     "name": "Miki26",
-                    "rank": 7,
-                    "amount": 10
+                    "rank": 6,
+                    "amount": 7
                 }
             ]
         }
