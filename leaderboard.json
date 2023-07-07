@@ -20,46 +20,54 @@
             "leaderboard": [
                 {
                     "playerId": "",
-                    "name": "RichardBenson",
+                    "name": "10araj",
                     "rank": 1,
-                    "amount": 71
+                    "amount": 40
                 },
                 {
                     "playerId": "",
-                    "name": "Sandbu",
+                    "name": "TheBlueWarrior89",
                     "rank": 2,
-                    "amount": 54
+                    "amount": 34
                 },
                 {
                     "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "Phonexium",
+                    "name": "cyber",
                     "rank": 3,
-                    "amount": 27
+                    "amount": 17
                 },
                 {
                     "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
                     "name": "zTheDarkAlex",
                     "rank": 4,
-                    "amount": 26
+                    "amount": 16
                 },
                 {
                     "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
-                    "name": "zCocopops",
-                    "rank": 5,
-                    "amount": 21
-                },
-                {
-                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
                     "name": "Waze",
-                    "rank": 6,
+                    "rank": 5,
                     "amount": 15
                 },
                 {
-                    "playerId": "a80b263e-8f41-4721-9b8e-760cbdb3af54",
-                    "name": "Miki26",
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "RichardBenson",
+                    "rank": 6,
+                    "amount": 12
+                },
+                {
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "Sandbu",
                     "rank": 7,
+                    "amount": 11
+                },
+                
+                {
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "zCocopops",
+                    "rank": 8,
                     "amount": 10
                 }
+                
             ]
         }
     ]
