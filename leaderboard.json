@@ -20,52 +20,80 @@
             "leaderboard": [
                 {
                     "playerId": "",
-                    "name": "10araj",
+                    "name": "Solar",
                     "rank": 1,
-                    "amount": 40
+                    "amount": 50
                 },
                 {
                     "playerId": "",
-                    "name": "TheBlueWarrior89",
+                    "name": "zTheDarkAlex",
                     "rank": 2,
-                    "amount": 34
+                    "amount": 31
                 },
                 {
                     "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "cyber",
+                    "name": "Blinking_Knight",
                     "rank": 3,
-                    "amount": 17
+                    "amount": 27
                 },
                 {
                     "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
-                    "name": "zTheDarkAlex",
+                    "name": "Exosmasher",
                     "rank": 4,
-                    "amount": 16
+                    "amount": 25
                 },
                 {
                     "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
-                    "name": "Waze",
+                    "name": "Phaserush",
                     "rank": 5,
-                    "amount": 15
+                    "amount": 20
                 },
                 {
                     "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
-                    "name": "RichardBenson",
+                    "name": "zCocopops",
                     "rank": 6,
-                    "amount": 12
+                    "amount": 17
                 },
                 {
                     "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
-                    "name": "Sandbu",
+                    "name": "cyber",
                     "rank": 7,
                     "amount": 11
                 },
                 
                 {
                     "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
-                    "name": "zCocopops",
+                    "name": "Ted",
                     "rank": 8,
-                    "amount": 10
+                    "amount": 11
+                },
+                
+                {
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "Phonexium",
+                    "rank": 8,
+                    "amount": 7
+                },
+                
+                {
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "RichardBenson69",
+                    "rank": 8,
+                    "amount": 3
+                },
+                
+                {
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "Waze",
+                    "rank": 8,
+                    "amount": 2
+                },
+                
+                {
+                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
+                    "name": "Miki",
+                    "rank": 8,
+                    "amount": 1
                 }
                 
             ]
