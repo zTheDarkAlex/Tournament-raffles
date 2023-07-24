@@ -3,7 +3,7 @@ const fs = require("fs");
 
 // Hash from block #3828600
 const hash =
-  "0x7cf8f59187937f486f00c190306e011f81c784b8ec8020090a6a0a5d76b9d410";
+  "0xff84900ca2b730a14aa0323b73b5af5302844e7795d9e5088d9ae8ae70461d8f";
 
 // isolate all numeric values from hash. ouput: '02857964967583535412401714837915793194991'
 
@@ -42,7 +42,7 @@ list
 
 // draw 90 unique winners
 const winnersList = [];
-for (let round = 0; round < 2; round++) {
+for (let round = 0; round < 3; round++) {
   const rnd = rng();
 
   let random = rnd * weights.reduce((a, b) => a + b, 0);
