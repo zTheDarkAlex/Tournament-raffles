@@ -20,62 +20,44 @@
             "leaderboard": [
                 {
                     "playerId": "",
-                    "name": "zTheDarkAlex",
+                    "name": "Sappyo",
                     "rank": 1,
-                    "amount": 56
+                    "amount": 28
                 },
                 {
                     "playerId": "",
-                    "name": "zCocopops",
+                    "name": "cyber",
                     "rank": 2,
-                    "amount": 39
+                    "amount": 16
                 },
                 {
                     "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "Phaserush",
+                    "name": "Dooky",
                     "rank": 3,
-                    "amount": 22
+                    "amount": 13
                 },
                 {
                     "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
-                    "name": "Waze",
+                    "name": "Phonexium",
                     "rank": 4,
-                    "amount": 21
+                    "amount": 11
                 },
                 {
                     "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
-                    "name": "Phonexium",
+                    "name": "Waze",
                     "rank": 5,
-                    "amount": 12
-                },
-                {
-                    "playerId": "",
-                    "name": "Miki26",
-                    "rank": 6,
                     "amount": 10
                 },
                 {
-                    "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "Monke",
-                    "rank": 7,
-                    "amount": 9
-                },
-                {
-                    "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
-                    "name": "cyber",
-                    "rank": 8,
-                    "amount": 9
-                },
-                {
-                    "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
-                    "name": "random",
-                    "rank": 9,
-                    "amount": 8
-                },
-                {
                     "playerId": "",
+                    "name": "Monke",
+                    "rank": 6,
+                    "amount": 3
+                },
+                {
+                    "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
                     "name": "Cheems",
-                    "rank": 10,
+                    "rank": 7,
                     "amount": 3
                 }
             ]
