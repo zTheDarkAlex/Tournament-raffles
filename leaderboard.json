@@ -22,43 +22,31 @@
                     "playerId": "",
                     "name": "Sappyo",
                     "rank": 1,
-                    "amount": 28
+                    "amount": 49
                 },
                 {
                     "playerId": "",
-                    "name": "cyber",
+                    "name": "Waze",
                     "rank": 2,
-                    "amount": 16
+                    "amount": 26
                 },
                 {
                     "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
                     "name": "Dooky",
                     "rank": 3,
-                    "amount": 13
+                    "amount": 25
                 },
                 {
                     "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
-                    "name": "Phonexium",
+                    "name": "Cheems",
                     "rank": 4,
-                    "amount": 11
+                    "amount": 15
                 },
                 {
                     "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
-                    "name": "Waze",
+                    "name": "cyber",
                     "rank": 5,
-                    "amount": 10
-                },
-                {
-                    "playerId": "",
-                    "name": "Monke",
-                    "rank": 6,
-                    "amount": 3
-                },
-                {
-                    "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "Cheems",
-                    "rank": 7,
-                    "amount": 3
+                    "amount": 8
                 }
             ]
         }
