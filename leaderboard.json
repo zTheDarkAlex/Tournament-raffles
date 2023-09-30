@@ -22,81 +22,32 @@
                     "playerId": "",
                     "name": "zTheDarkAlex",
                     "rank": 1,
-                    "amount": 84
+                    "amount": 47
                 },
                 {
                     "playerId": "",
-                    "name": "Dyrh",
+                    "name": "Sandbu",
                     "rank": 2,
-                    "amount": 64
+                    "amount": 36
                 },
                 {
                     "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "SolarPear",
+                    "name": "Waze",
                     "rank": 3,
-                    "amount": 49
+                    "amount": 35
                 },
                 {
                     "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
-                    "name": "litphoenix",
+                    "name": "Miki26",
                     "rank": 4,
-                    "amount": 45
+                    "amount": 7
                 },
                 {
                     "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
-                    "name": "Wik_MC",
+                    "name": "cyber",
                     "rank": 5,
-                    "amount": 43
-                },
-                {
-                    "playerId": "ecb2e33d-2175-4230-90b7-f86642997bf6",
-                    "name": "MonkeCrypto",
-                    "rank": 6,
-                    "amount": 38
-                },
-                {
-                    "playerId": "a80b263e-8f41-4721-9b8e-760cbdb3af54",
-                    "name": "245ms",
-                    "rank": 7,
-                    "amount": 30
-                },
-                {
-                    "playerId": "109e540a-afbc-4d67-875d-130b7701db13",
-                    "name": "zCocopops",
-                    "rank": 8,
-                    "amount": 26
-                },
-                {
-                    "playerId": "51203eec-dda0-4129-9324-959736a83979",
-                    "name": "Waze",
-                    "rank": 9,
-                    "amount": 24
-                },
-                {
-                    "playerId": "0c73a007-1b20-4804-a8e7-5edd66fe56cd",
-                    "name": "Miki26",
-                    "rank": 10,
-                    "amount": 15
-                },
-                {
-                    "playerId": "49ef96f7-a7c6-424d-b9e4-6ad427bd57f0",
-                    "name": "Mbmachiavelli",
-                    "rank": 11,
-                    "amount": 13
-                },
-                {
-                    "playerId": "4c3e5e92-8b9b-42b0-b9ec-5bedb7bf2db8",
-                    "name": "Sandbu",
-                    "rank": 12,
-                    "amount": 2
-                },
-                {
-                    "playerId": "45297318-b13d-4375-a960-97e4150b746c",
-                    "name": "Phenoxium",
-                    "rank": 13,
-                    "amount": 10
+                    "amount": 1
                 }
-
             ]
         }
     ]
