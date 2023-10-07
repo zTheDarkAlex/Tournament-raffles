@@ -20,33 +20,57 @@
             "leaderboard": [
                 {
                     "playerId": "",
-                    "name": "Sappyo",
+                    "name": "Sandbu",
                     "rank": 1,
-                    "amount": 49
+                    "amount": 46
                 },
                 {
                     "playerId": "",
-                    "name": "Waze",
+                    "name": "Stw7",
                     "rank": 2,
-                    "amount": 26
+                    "amount": 39
                 },
                 {
                     "playerId": "42096bc4-e38a-4798-b102-ce75fd6d8ca9",
-                    "name": "Dooky",
+                    "name": "Monke",
                     "rank": 3,
-                    "amount": 25
+                    "amount": 26
                 },
                 {
                     "playerId": "c04b46d1-fc65-4bda-a43c-4beb44ca5580",
-                    "name": "Cheems",
+                    "name": "Waze",
                     "rank": 4,
-                    "amount": 15
+                    "amount": 26
+                },
+                {
+                    "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
+                    "name": "zTheDarkAlex",
+                    "rank": 5,
+                    "amount": 18
+                },
+                {
+                    "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
+                    "name": "zCocopops",
+                    "rank": 6,
+                    "amount": 11
                 },
                 {
                     "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
                     "name": "cyber",
-                    "rank": 5,
-                    "amount": 8
+                    "rank": 7,
+                    "amount": 7
+                },
+                {
+                    "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
+                    "name": "Miki26",
+                    "rank": 8,
+                    "amount": 4
+                },
+                {
+                    "playerId": "ae9e8f54-5f17-4487-a808-cd0615982d77",
+                    "name": "Xiux37",
+                    "rank": 9,
+                    "amount": 1
                 }
             ]
         }
