@@ -3,7 +3,7 @@ const fs = require("fs");
 
 // Hash from block #3828600
 const hash =
-  "0x7cf8f59187937f486f00c190306e011f81c784b8ec8020090a6a0a5d76b9d410";
+  "0xac2d0dffb27a18449b5eaebfb44c122be708285444528009353c30939ef8677d";
 
 // isolate all numeric values from hash. ouput: '02857964967583535412401714837915793194991'
 
